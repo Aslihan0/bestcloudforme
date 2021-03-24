@@ -4,3 +4,4 @@ Bu dosyaya girildiğinde Controllers adında bir dosya daha var. Bu dosyanın i�
 Classes dosyasında da firstname ve lastname parametreleri tanımlanmıştır.
 Proje visual studio 2017 üzerinde asp.net ile geliştirilmiştir.
 Projeyi çalıştırırken start without debugging i seçerek çalıştırırsanız sorunsuz bir şekilde çalıştığını görebilirsiniz.
+Çalıştığında ekranda case de istenildiği gibi ad ve soyadı görüntüleyebilirsiniz.
